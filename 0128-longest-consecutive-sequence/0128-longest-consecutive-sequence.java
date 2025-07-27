@@ -1,4 +1,6 @@
 class Solution {
+    //tc=O(n)
+    //sc=O(n)
     public int longestConsecutive(int[] nums) {
         int n=nums.length;
          if (n == 0) return 0; // handle empty array
