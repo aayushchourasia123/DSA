@@ -1,4 +1,6 @@
 class Solution {
+    //tc=O(n*m)
+    //sc=O(n*m)
     public List<Integer> spiralOrder(int[][] matrix) {
         int m=matrix.length;
         int n=matrix[0].length;
