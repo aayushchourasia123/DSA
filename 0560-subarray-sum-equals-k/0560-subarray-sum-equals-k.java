@@ -1,5 +1,7 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
+        //TC=O(N)
+        //SC=O(N)
         HashMap<Integer, Integer> mp=new HashMap();
         mp.put(0,1); //frequncy of 0 is 1
         int presum=0,cnt=0 ;
