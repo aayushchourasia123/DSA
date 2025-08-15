@@ -64,15 +64,13 @@ class Solution {
                 }
                 else {
                     ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                    
-
-                // Skip duplicates for left and right
-                while (j < k && nums[j] == nums[j + 1]) j++;
-                while (j < k && nums[k] == nums[k - 1]) k--;
-
                     j++;
                     k--;
-                
+
+                // Skip duplicates for left and right
+                while (j < k && nums[j] == nums[j - 1]) j++;
+                while (j < k && nums[k] == nums[k + 1]) k--;
+
                 }
             }
         }
