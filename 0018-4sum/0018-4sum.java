@@ -28,7 +28,6 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         Arrays.sort(nums);
         
-        //long tgt = (long) target;
         for(int i=0;i<n;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;
 
