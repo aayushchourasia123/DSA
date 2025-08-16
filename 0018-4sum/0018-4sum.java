@@ -28,7 +28,7 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         Arrays.sort(nums);
         
-        long tgt = (long) target;
+        //long tgt = (long) target;
         for(int i=0;i<n;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;
 
@@ -39,7 +39,7 @@ class Solution {
                 int l=n-1;
                 while(k<l){
                     long sum=(long)nums[i]+nums[j]+nums[k]+nums[l];
-                    if(sum==tgt){
+                    if(sum==target){
                          ans.add(Arrays.asList(nums[i], nums[j], nums[k],nums[l]));
                          k++;
                          l--;
