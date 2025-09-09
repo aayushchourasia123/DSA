@@ -1,4 +1,5 @@
 class Solution {
+    //tc=O(log n)
     public int searchInsert(int[] nums, int target) {
         int ans=nums.length;
         int low=0,high=nums.length-1;
