@@ -1,6 +1,7 @@
 class Solution {
     public void nearlySorted(int[] arr, int k) {
         // code here
+        //TC=O(n logk)
         PriorityQueue<Integer> pq=new PriorityQueue<>();
         int idx=0;
         for(int i=0;i<arr.length;i++){
