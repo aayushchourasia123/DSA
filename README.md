@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aayushchourasia123/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/aayushchourasia123/DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aayushchourasia123/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aayushchourasia123/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 ## Union Find
 |  |
 | ------- |
@@ -67,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aayushchourasia123/DSA/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushchourasia123/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushchourasia123/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
