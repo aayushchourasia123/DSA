@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayushchourasia123/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/aayushchourasia123/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/aayushchourasia123/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/aayushchourasia123/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aayushchourasia123/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushchourasia123/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aayushchourasia123/DSA/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/aayushchourasia123/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aayushchourasia123/DSA/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aayushchourasia123/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
