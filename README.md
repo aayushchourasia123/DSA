@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/aayushchourasia123/DSA/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/aayushchourasia123/DSA/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aayushchourasia123/DSA/tree/master/0014-longest-common-prefix) |
+| [0131-palindrome-partitioning](https://github.com/aayushchourasia123/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aayushchourasia123/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aayushchourasia123/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aayushchourasia123/DSA/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/aayushchourasia123/DSA/tree/master/0131-palindrome-partitioning) |
 ## Enumeration
 |  |
 | ------- |
