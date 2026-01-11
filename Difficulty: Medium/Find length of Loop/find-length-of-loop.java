@@ -11,17 +11,18 @@ class Node {
 */
 
 class Solution {
-    public int Count(Node slow){
-        int count=1;
-        Node temp=slow.next;
-        while(slow!=temp){
-            count++;
-            temp=temp.next;
-        }
-        return count;
-    }
+    // public int Count(Node slow){
+    //     int count=1;
+    //     Node temp=slow.next;
+    //     while(slow!=temp){
+    //         count++;
+    //         temp=temp.next;
+    //     }
+    //     return count;
+    // }
     public int lengthOfLoop(Node head) {
         // code here
+        //tc=O(n)  sc=O(1)
         Node slow=head;
         Node fast=head;
         while(fast!=null && fast.next!=null){
@@ -29,13 +30,15 @@ class Solution {
             fast=fast.next.next;
             
             if(slow==fast){
-                slow=head;
-                while(slow!=fast){
-                    slow=slow.next;
-                    fast=fast.next;
+                int count=1;
+                Node temp=slow.next;
+                while(slow!=temp){
+                    count++;
+                    temp=temp.next;
                 }
-                return Count(slow);
+                return count;
             }
+                
         }
         return 0;
     }
