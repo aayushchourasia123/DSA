@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aayushchourasia123/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aayushchourasia123/DSA/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/aayushchourasia123/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushchourasia123/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/aayushchourasia123/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aayushchourasia123/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/aayushchourasia123/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushchourasia123/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/aayushchourasia123/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aayushchourasia123/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/aayushchourasia123/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aayushchourasia123/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushchourasia123/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushchourasia123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushchourasia123/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -229,10 +232,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aayushchourasia123/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/aayushchourasia123/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushchourasia123/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/aayushchourasia123/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aayushchourasia123/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
