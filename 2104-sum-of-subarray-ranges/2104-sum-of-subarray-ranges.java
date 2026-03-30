@@ -60,6 +60,7 @@ class Solution {
         return nse;
     }
     public long sumOfSmallest(int arr[]){
+        //tc=O(10N) sc=O(10N)
         int[] nse=findNse(arr);
         int[] pse=findPse(arr);
         long total=0;
