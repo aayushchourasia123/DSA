@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aayushchourasia123/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aayushchourasia123/DSA/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/aayushchourasia123/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/aayushchourasia123/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushchourasia123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aayushchourasia123/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/aayushchourasia123/DSA/tree/master/0904-fruit-into-baskets) |
 ## Union Find
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayushchourasia123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/aayushchourasia123/DSA/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/aayushchourasia123/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushchourasia123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
