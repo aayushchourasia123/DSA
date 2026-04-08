@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aayushchourasia123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/aayushchourasia123/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aayushchourasia123/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayushchourasia123/DSA/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
