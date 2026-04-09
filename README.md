@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/aayushchourasia123/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/aayushchourasia123/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushchourasia123/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1901-find-a-peak-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/aayushchourasia123/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/aayushchourasia123/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aayushchourasia123/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union Find
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aayushchourasia123/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/aayushchourasia123/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayushchourasia123/DSA/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aayushchourasia123/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/aayushchourasia123/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushchourasia123/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aayushchourasia123/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aayushchourasia123/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushchourasia123/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
