@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/aayushchourasia123/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aayushchourasia123/DSA/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/aayushchourasia123/DSA/tree/master/0860-lemonade-change) |
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/aayushchourasia123/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/aayushchourasia123/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aayushchourasia123/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aayushchourasia123/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/aayushchourasia123/DSA/tree/master/0860-lemonade-change) |
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
