@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aayushchourasia123/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aayushchourasia123/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aayushchourasia123/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/aayushchourasia123/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/aayushchourasia123/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aayushchourasia123/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aayushchourasia123/DSA/tree/master/0078-subsets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aayushchourasia123/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aayushchourasia123/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/aayushchourasia123/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/aayushchourasia123/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/aayushchourasia123/DSA/tree/master/0131-palindrome-partitioning) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aayushchourasia123/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/aayushchourasia123/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aayushchourasia123/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
