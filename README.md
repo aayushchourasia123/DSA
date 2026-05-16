@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushchourasia123/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aayushchourasia123/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aayushchourasia123/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aayushchourasia123/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aayushchourasia123/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aayushchourasia123/DSA/tree/master/0055-jump-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aayushchourasia123/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aayushchourasia123/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aayushchourasia123/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/aayushchourasia123/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/aayushchourasia123/DSA/tree/master/0118-pascals-triangle) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aayushchourasia123/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aayushchourasia123/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/aayushchourasia123/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aayushchourasia123/DSA/tree/master/0455-assign-cookies) |
