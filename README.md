@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aayushchourasia123/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aayushchourasia123/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aayushchourasia123/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/aayushchourasia123/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/aayushchourasia123/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aayushchourasia123/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aayushchourasia123/DSA/tree/master/0078-subsets) |
