@@ -4,10 +4,10 @@ class Solution {
         //sc=O(n)
         Arrays.sort(intervals,(a,b)->a[0]-b[0]);
         List<int[]> ans=new ArrayList<>();
-        int newInterval=intervals[0];
+        int newInterval[]=intervals[0];
         ans.add(newInterval);
-        for(interval[] : intervals){
-            if(interval[1]>=newInterval[0]){
+        for(int interval[] : intervals){
+            if(interval[0]<=newInterval[1]){
                 newInterval[1]=Math.max(interval[1],newInterval[1]);
             }
             else{
