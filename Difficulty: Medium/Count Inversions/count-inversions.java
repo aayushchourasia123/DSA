@@ -51,7 +51,7 @@ class Solution {
         // return count;
         
         //tc=O(n log n) sc=O(n)
-        cnt=0;//cnt is global variable to reset it everytime function we assign cnt=0 inside function
+        cnt=0;//cnt is global variable to reset it everytime when function is called we assign cnt=0 inside function
         mergeSort(arr,0,arr.length-1);
         return cnt;
     }
