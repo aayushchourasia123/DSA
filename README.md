@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aayushchourasia123/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aayushchourasia123/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/aayushchourasia123/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/aayushchourasia123/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushchourasia123/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aayushchourasia123/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aayushchourasia123/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aayushchourasia123/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/aayushchourasia123/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushchourasia123/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushchourasia123/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aayushchourasia123/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aayushchourasia123/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/aayushchourasia123/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushchourasia123/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/aayushchourasia123/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayushchourasia123/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushchourasia123/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aayushchourasia123/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/aayushchourasia123/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/aayushchourasia123/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushchourasia123/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushchourasia123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushchourasia123/DSA/tree/master/0347-top-k-frequent-elements) |
