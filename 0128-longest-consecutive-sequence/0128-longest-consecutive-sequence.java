@@ -1,32 +1,23 @@
 class Solution {
-    //tc=O(n)
-    //sc=O(n)
     public int longestConsecutive(int[] nums) {
-        int n=nums.length;
-         if (n == 0) return 0; // handle empty array
-
+        //tc=O(n) sc=O(n)
+        if(nums.length==0) return 0;
         Set<Integer> st=new HashSet<>();
-        //adding elements in hastset 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<nums.length;i++){
             st.add(nums[i]);
         }
-        int longest1=1;
-        // Find the longest sequence
-        for(int it : st){
-            //if 'it' is a starting number
-            if(!st.contains(it-1)){ 
-                //find consecutive numbers
+        int longest=1;
+        for(int el:st){
+            if(!st.contains(el-1)){
                 int count=1;
-                int x=it;
-                
+                int x=el;
                 while(st.contains(x+1)){
                     count++;
                     x++;
                 }
-                 longest1=Math.max(longest1,count);
+                longest=Math.max(longest,count);
             }
         }
-        return longest1;
+        return longest;
     }
-
 }
