@@ -1,10 +1,11 @@
 class Solution {
-    //tc=O(n) sc=O(256)
     public int lengthOfLongestSubstring(String s) {
-        int r=0,l=0,maxlen=0;
+        //tc=O(n) sc=O(256)
         int hash[]=new int[256];
         Arrays.fill(hash,-1);
-        while(r<s.length()){
+        int l=0,r=0,maxlen=0;
+        int n=s.length();
+        while(r<n){
             char ch=s.charAt(r);
             if(hash[ch]!=-1){
                 if(hash[ch]>=l){
@@ -12,7 +13,7 @@ class Solution {
                 }
             }
             maxlen=Math.max(maxlen,r-l+1);
-            hash[ch]=r;
+            hash[s.charAt(r)]=r;
             r++;
         }
         return maxlen;
