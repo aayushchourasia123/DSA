@@ -10,38 +10,37 @@
  * }
  */
 public class Solution {
-    public ListNode findIntersection(ListNode headA,ListNode headB,int diff){
-        ListNode tempA=headA;
-        ListNode tempB=headB;
-        if(diff>0){
-            while(diff--!=0) tempA=tempA.next;
-        }
-        else {
-            while(diff++!=0) tempB=tempB.next;
-        }
-
-        while(tempA!=null){
-            if(tempA==tempB) return tempA;
-            tempA=tempA.next;
-            tempB=tempB.next;
+    public ListNode findInsertion(ListNode headA, ListNode headB,int diff){
+            if(diff>0){
+                while(diff--!=0){
+                   headA=headA.next; 
+                }
+                
+            }
+            else{
+                while(diff++!=0){
+                   headB=headB.next; 
+                }
+            }
+        while(headA!=null && headB!=null){
+            if(headA==headB) return headA;
+            headA=headA.next;
+            headB=headB.next;
         }
         return null;
     }
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        //tc=O(n+m) sc=O(1)
-        ListNode tempA=headA;
-        ListNode tempB=headB;
-
-        int countA=0;
-        while(tempA!=null){
+        int countA=0,countB=0;
+        ListNode temp=headA;
+        while(temp!=null){
             countA++;
-            tempA=tempA.next;
+            temp=temp.next;
         }
-        int countB=0;
-        while(tempB!=null){
+        temp=headB;
+        while(temp!=null){
             countB++;
-            tempB=tempB.next;
+            temp=temp.next;
         }
-        return findIntersection(headA,headB,countA-countB);
+        return findInsertion(headA,headB,countA-countB);
     }
 }
