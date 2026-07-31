@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aayushchourasia123/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/aayushchourasia123/DSA/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/aayushchourasia123/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/aayushchourasia123/DSA/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/aayushchourasia123/DSA/tree/master/0860-lemonade-change) |
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aayushchourasia123/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/aayushchourasia123/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/aayushchourasia123/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/aayushchourasia123/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/aayushchourasia123/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Sorting
 |  |
