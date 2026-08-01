@@ -1,4 +1,5 @@
 class Solution {
+    //tc=O(n) sc=O(n)
     public int rob(int[] nums) {
         int n=nums.length;
         if(n==1) return nums[0];
