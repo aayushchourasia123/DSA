@@ -27,6 +27,7 @@
 
 class Solution {
     public int minPathSum(int[][] grid) {
+        //tc=O(m*n) sc=O(1)
         int m = grid.length;
         int n = grid[0].length;
         for(int i=0;i<m;i++){
