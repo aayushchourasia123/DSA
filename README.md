@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayushchourasia123/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aayushchourasia123/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1901-find-a-peak-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/aayushchourasia123/DSA/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/aayushchourasia123/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayushchourasia123/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/aayushchourasia123/DSA/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/aayushchourasia123/DSA/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
