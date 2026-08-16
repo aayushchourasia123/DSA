@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aayushchourasia123/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aayushchourasia123/DSA/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/aayushchourasia123/DSA/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/aayushchourasia123/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aayushchourasia123/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aayushchourasia123/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aayushchourasia123/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aayushchourasia123/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/aayushchourasia123/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aayushchourasia123/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/aayushchourasia123/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/aayushchourasia123/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aayushchourasia123/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/aayushchourasia123/DSA/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/aayushchourasia123/DSA/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/aayushchourasia123/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aayushchourasia123/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aayushchourasia123/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aayushchourasia123/DSA/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aayushchourasia123/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
@@ -499,5 +503,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aayushchourasia123/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aayushchourasia123/DSA/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aayushchourasia123/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
