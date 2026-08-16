@@ -1,13 +1,13 @@
 class Solution {
     //tc=O(n*amt) sc=O(n*amt)
     public long coinCount(int i,int amt,int coins[],long dp[][]){
-        if(i==coins.length){
+        if(i<0){
             if(amt==0) return 0;
             else return Integer.MAX_VALUE; // not a valid combinations
         }
         if(dp[i][amt]!=-1) return dp[i][amt];
 
-        long skip=coinCount(i+1,amt,coins,dp);
+        long skip=coinCount(i-1,amt,coins,dp);
 
         if(amt-coins[i]<0) return dp[i][amt]=skip;
 
@@ -16,11 +16,13 @@ class Solution {
         return dp[i][amt]=Math.min(pick,skip);
     }
     public int coinChange(int[] coins, int amount) {
+        //i=>n-1 to 0 and amt=>amt to 0
+        int n=coins.length;
         long dp[][]=new long[coins.length][amount+1];
         for(long row[]:dp){
             Arrays.fill(row,-1);
         }
-        int ans= (int)coinCount(0,amount,coins,dp);
+        int ans= (int)coinCount(n-1,amount,coins,dp);
         if(ans==Integer.MAX_VALUE) return -1;
         return ans;
     }
