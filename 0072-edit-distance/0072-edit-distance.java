@@ -25,6 +25,7 @@
 //     }
 // }
 class Solution {
+    //tabulations
     //tc=O(n*m) sc=O(n*m)
     public int minDistance(String word1, String word2) {
         int m=word1.length();
