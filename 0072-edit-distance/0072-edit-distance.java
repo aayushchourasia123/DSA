@@ -39,22 +39,22 @@ class Solution {
             for(int j=0;j<n;j++){
                 
                 if(word1.charAt(i)==word2.charAt(j)){
-                    if(i-1==-1)  dp[i][j]=j+1;
-                    else if(j-1==-1) dp[i][j]=i+1;
+                    if(i-1==-1)  dp[i][j]=j;
+                    else if(j-1==-1) dp[i][j]=i;
                     else dp[i][j]=dp[i-1][j-1];
                 }
                 else{
                     int del=(i-1==-1)?j+1:dp[i-1][j];
                     int ins=(j-1==-1)?i+1:dp[i][j-1];
                     int rep;
-                    if(i-1==-1)  rep=j+1;
-                    else if(j-1==-1) rep=i+1;
+                    if(i-1==-1)  rep=j;
+                    else if(j-1==-1) rep=i;
                     else rep=dp[i-1][j-1];
 
                     dp[i][j]=1+Math.min(del,Math.min(ins,rep));
                 }
             }
         }
-        return dp[m-1][n-1]-1;
+        return dp[m-1][n-1];
     }
 }
