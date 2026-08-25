@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aayushchourasia123/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aayushchourasia123/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aayushchourasia123/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aayushchourasia123/DSA/tree/master/0053-maximum-subarray) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aayushchourasia123/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aayushchourasia123/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aayushchourasia123/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aayushchourasia123/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayushchourasia123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aayushchourasia123/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/aayushchourasia123/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aayushchourasia123/DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/aayushchourasia123/DSA/tree/master/0072-edit-distance) |
@@ -528,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/aayushchourasia123/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/aayushchourasia123/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aayushchourasia123/DSA/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aayushchourasia123/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
