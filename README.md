@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayushchourasia123/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aayushchourasia123/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aayushchourasia123/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aayushchourasia123/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1901-find-a-peak-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/aayushchourasia123/DSA/tree/master/1929-concatenation-of-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/aayushchourasia123/DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayushchourasia123/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aayushchourasia123/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aayushchourasia123/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aayushchourasia123/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/aayushchourasia123/DSA/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aayushchourasia123/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aayushchourasia123/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aayushchourasia123/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Counting
 |  |
 | ------- |
