@@ -552,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/aayushchourasia123/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/aayushchourasia123/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
