@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/aayushchourasia123/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aayushchourasia123/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aayushchourasia123/DSA/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 ## Stack
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aayushchourasia123/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aayushchourasia123/DSA/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 ## Trie
 |  |
 | ------- |
