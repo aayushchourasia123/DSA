@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aayushchourasia123/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aayushchourasia123/DSA/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/aayushchourasia123/DSA/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Stack
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aayushchourasia123/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aayushchourasia123/DSA/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/aayushchourasia123/DSA/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Trie
 |  |
 | ------- |
