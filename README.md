@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aayushchourasia123/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aayushchourasia123/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aayushchourasia123/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aayushchourasia123/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushchourasia123/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/aayushchourasia123/DSA/tree/master/0148-sort-list) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aayushchourasia123/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/aayushchourasia123/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aayushchourasia123/DSA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/aayushchourasia123/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aayushchourasia123/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aayushchourasia123/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aayushchourasia123/DSA/tree/master/0344-reverse-string) |
