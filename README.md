@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aayushchourasia123/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/aayushchourasia123/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/aayushchourasia123/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushchourasia123/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushchourasia123/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aayushchourasia123/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aayushchourasia123/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
+| [0977-squares-of-a-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aayushchourasia123/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Counting
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aayushchourasia123/DSA/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/aayushchourasia123/DSA/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aayushchourasia123/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
