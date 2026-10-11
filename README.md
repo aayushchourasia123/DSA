@@ -588,4 +588,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aayushchourasia123/DSA/tree/master/0032-longest-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aayushchourasia123/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aayushchourasia123/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
