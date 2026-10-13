@@ -43,6 +43,7 @@
         // return ans;
 
 class Solution {
+    //tc=O(n^2) sc=O(1)
     List<List<Integer>> res=new ArrayList<>();
 
     public void twoSum(int target,int i,int j,int nums[]){
