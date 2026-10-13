@@ -59,7 +59,7 @@ class Solution {
         }
     }
     public List<List<Integer>> threeSum(int[] nums) {
-        //res.clear();
+        res.clear();
         int n=nums.length;
         if(n<3) return new ArrayList<>();
         Arrays.sort(nums);
