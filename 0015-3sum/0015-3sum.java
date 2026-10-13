@@ -1,5 +1,5 @@
-class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
+// class Solution {
+//     public List<List<Integer>> threeSum(int[] nums) {
         //tc=O(n^3)
         //sc=O(1) 
         // List<List<Integer>> ans=new ArrayList<>();
@@ -42,38 +42,32 @@ class Solution {
         // List<List<Integer>> ans = new ArrayList<>(st);
         // return ans;
 
-        //TC=O(N^2)+O(N LOGN)
-        //SC=O(1)
-        int n=nums.length;
-        Arrays.sort(nums);
-        List<List<Integer>> ans = new ArrayList<>();
+class Solution {
+    List<List<Integer>> res=new ArrayList<>();
 
-        for(int i=0;i<n;i++)
-        {
-            if(i>0 && nums[i]==nums[i-1]) continue;
-            int j=i+1;
-            int k=n-1;
-
-            while(j<k){
-                int sum=nums[i]+nums[j]+nums[k];
-                if(sum<0){
-                    j++;
-                }
-                else if(sum>0){
-                    k--;
-                }
-                else {
-                    ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                    j++;
-                    k--;
-
-                // Skip duplicates for left and right
-                while (j < k && nums[j] == nums[j - 1]) j++;
-                while (j < k && nums[k] == nums[k + 1]) k--;
-
-                }
+    public void twoSum(int target,int i,int j,int nums[]){
+        while(i<j){
+            if(nums[i]+nums[j]>target) j--;
+            else if(nums[i]+nums[j]<target) i++;
+            else{
+                while(i<j && nums[i]==nums[i+1]) i++;
+                while(i<j && nums[j]==nums[j-1]) j--;
+                res.add(Arrays.asList(-target,nums[i],nums[j]));
+                i++;j--;
             }
         }
-        return ans;
+    }
+    public List<List<Integer>> threeSum(int[] nums) {
+        //res.clear();
+        int n=nums.length;
+        if(n<3) return new ArrayList<>();
+        Arrays.sort(nums);
+        for(int i=0;i<=n-3;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            int n1=nums[i];
+            int target=-n1;
+            twoSum(target,i+1,n-1,nums);
+        }
+        return res;
     }
 }
