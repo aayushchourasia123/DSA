@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aayushchourasia123/DSA/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/aayushchourasia123/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/aayushchourasia123/DSA/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayushchourasia123/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aayushchourasia123/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushchourasia123/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/aayushchourasia123/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayushchourasia123/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Union Find
 |  |
@@ -527,10 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aayushchourasia123/DSA/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayushchourasia123/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aayushchourasia123/DSA/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayushchourasia123/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
