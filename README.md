@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aayushchourasia123/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aayushchourasia123/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayushchourasia123/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayushchourasia123/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aayushchourasia123/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayushchourasia123/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Union Find
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/aayushchourasia123/DSA/tree/master/0876-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/aayushchourasia123/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aayushchourasia123/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayushchourasia123/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
 |  |
 | ------- |
