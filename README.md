@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aayushchourasia123/DSA/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/aayushchourasia123/DSA/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/aayushchourasia123/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
