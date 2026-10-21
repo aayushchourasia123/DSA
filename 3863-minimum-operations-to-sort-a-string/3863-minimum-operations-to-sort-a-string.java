@@ -1,33 +1,26 @@
 class Solution {
     public int minOperations(String s) {
-        int n = s.length();
-        char[] arr = s.toCharArray();
-
-        boolean sorted = true;
-        for (int i = 1; i < n; i++) {
-            if (arr[i] < arr[i - 1]) {
-                sorted = false;
+        int n=s.length();
+        char arr[]=s.toCharArray();
+        boolean sorted=true;
+        for(int i=1;i<n;i++){
+            if(arr[i]<arr[i-1]){
+                sorted=false;
                 break;
             }
         }
-        if (sorted) {
-            return 0;
+        if(sorted) return 0;
+        if(n==2) return -1;
+
+        char minChar=arr[0];
+        char maxChar=arr[0];
+
+        for(int i=1;i<n;i++){
+            minChar=(char)Math.min(minChar,arr[i]);
+            maxChar=(char)Math.max(maxChar,arr[i]);
         }
 
-        if (n == 2) {
-            return -1;
-        }
-
-        char minChar = arr[0];
-        char maxChar = arr[0];
-        for (int i = 1; i < n; i++) {
-            minChar = (char) Math.min(minChar, arr[i]);
-            maxChar = (char) Math.max(maxChar, arr[i]);
-        }
-
-        if (arr[0] == minChar || arr[n - 1] == maxChar) {
-            return 1;
-        }
+        if(arr[0]==minChar || arr[n-1]==maxChar) return 1;
 
         char minMid = arr[1];
         char maxMid = arr[1];
