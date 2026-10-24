@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/aayushchourasia123/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayushchourasia123/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/aayushchourasia123/DSA/tree/master/2409-count-days-spent-together) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/aayushchourasia123/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/aayushchourasia123/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aayushchourasia123/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/aayushchourasia123/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/aayushchourasia123/DSA/tree/master/2409-count-days-spent-together) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aayushchourasia123/DSA/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/aayushchourasia123/DSA/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aayushchourasia123/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
