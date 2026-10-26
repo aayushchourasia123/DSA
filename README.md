@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aayushchourasia123/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayushchourasia123/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aayushchourasia123/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayushchourasia123/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/aayushchourasia123/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/aayushchourasia123/DSA/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayushchourasia123/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/aayushchourasia123/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aayushchourasia123/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/aayushchourasia123/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayushchourasia123/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/aayushchourasia123/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aayushchourasia123/DSA/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/aayushchourasia123/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -647,4 +651,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aayushchourasia123/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayushchourasia123/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
