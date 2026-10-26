@@ -17,6 +17,8 @@ class Solution {
         return total;
     }
     public int countIslands(int[][] grid, int k) {
+        //tc=O(n*m)
+        //sc=O(n*m) due to the recursive call stack.
         m=grid.length;
         n=grid[0].length;
         int count=0;
