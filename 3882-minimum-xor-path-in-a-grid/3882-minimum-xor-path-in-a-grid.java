@@ -1,39 +1,50 @@
 class Solution {
-
     public int minCost(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
+        //tc=O(m*n*1024)
+        //sc=O(m*n*1024)
+        int m=grid.length;
+        int n=grid[0].length;
 
-        boolean[][] dp = new boolean[n][1024];
-        boolean[] next = new boolean[1024];
+        BitSet dp[][]=new BitSet[m][n];
 
-        dp[0][grid[0][0]] = true;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                dp[i][j]=new BitSet(1024);
+            }
+        }
+        dp[0][0].set(grid[0][0]);
+        
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(i==0 && j==0) continue;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == 0 && j == 0) {
-                    continue;
+                BitSet up=new BitSet(1024);
+                BitSet left=new BitSet(1024);
+
+                if(i>0){
+                    up=(BitSet) dp[i-1][j].clone();
                 }
+                if(j>0){
+                    left=(BitSet) dp[i][j-1].clone();
+                }
+                BitSet combine=(BitSet) up.clone();
+                combine.or(left);
 
-                int value = grid[i][j];
-                Arrays.fill(next, false);
-
-                for (int k = 0; k < 1024; k++) {
-                    if (dp[j][k] || (j > 0 && dp[j - 1][k])) {
-                        next[k ^ value] = true;
+                for(int xorVal=0;xorVal<1024;xorVal++){
+                    if(combine.get(xorVal)){
+                        int resXor=grid[i][j]^xorVal;
+                        dp[i][j].set(resXor);
                     }
                 }
-
-                System.arraycopy(next, 0, dp[j], 0, 1024);
             }
         }
 
-        for (int k = 0; k < 1024; k++) {
-            if (dp[n - 1][k]) {
-                return k;
+        //dp[m-1][n-1]
+        for(int xorVal=0;xorVal<1024;xorVal++){
+            if(dp[m-1][n-1].get(xorVal)){
+                return xorVal;
             }
         }
-
         return -1;
     }
 }
