@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushchourasia123/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aayushchourasia123/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aayushchourasia123/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/aayushchourasia123/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/aayushchourasia123/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/aayushchourasia123/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/aayushchourasia123/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aayushchourasia123/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/aayushchourasia123/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/aayushchourasia123/DSA/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/aayushchourasia123/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aayushchourasia123/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aayushchourasia123/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/aayushchourasia123/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/aayushchourasia123/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/aayushchourasia123/DSA/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aayushchourasia123/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/aayushchourasia123/DSA/tree/master/0901-online-stock-span) |
